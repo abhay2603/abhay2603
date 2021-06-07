@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Documentations and Youtube
 - 💬 Ask/talk to me about Tech,space,universe,astronomy,psychology......[ the list goes on:) ]
 - 📫 How to reach me: Twitter/Instagram - @rathour_abhayy
-- ⚡ Fun fact: People do stalk on github ;) and yes tatya bichhu>>>>> Anabelle
+- ⚡ Fun fact: People do stalk on github ;)
