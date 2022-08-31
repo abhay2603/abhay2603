@@ -1,4 +1,4 @@
-<h1 align="center">heyya👋, I'm Abhay, Would you mind if I don't come up with a catchy phrase?</h1>
+<h1 align="center">heyy👋, I'm Abhay, Would you mind if I don't come up with a catchy phrase?</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abby1611&label=Profile%20views&color=0e75b6&style=flat" alt="abby1611" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abby1611" alt="abby1611" /></a> </p>
