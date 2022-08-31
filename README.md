@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/rathour_abhayy" target="blank"><img src="https://img.shields.io/twitter/follow/rathour_abhayy?logo=twitter&style=for-the-badge" alt="rathour_abhayy" /></a> </p>
 
-- 🔭 I’m currently working on **Some Basic ML projects**
+- 🔭 I’m currently working on **Projects based on Web and app development** and open to **Software Developer** profiles.
 
-- 🌱 I’m currently learning **Data structures, Git, basic ML and also cooking :)**
+- 🌱 I’m currently learning **everything that helps me in levelling up my skillsets :)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abby1611](https://github.com/abby1611)
 
 - 📝 I sometimes write articles on [https://wordpress.com/posts/thedistressedblogger.wordpress.com](https://wordpress.com/posts/thedistressedblogger.wordpress.com)
 
-- 💬 Ask/talk to me about **Tech, space, universe, astronomy, psychology,....[ the list goes on:) ]**
+- 💬 Ask/talk to me about **Tech, space, universe, astronomy, psychology, love....[ the list goes on:) ]**
 
-- 📫 How to reach me **apsr0316@gmail.com**
+- 📫 How to reach me **recruitabhay2023@gmail.com(work) / apsr0316@gmail.com (personal)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lMOIJ6FbbseLjAr07-JdylzJQp2ci7rC/view?usp=sharing](https://drive.google.com/file/d/1lMOIJ6FbbseLjAr07-JdylzJQp2ci7rC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Pf3QGd8uuKfSE9ZCZg9_g9rXJ3loUe5j/view?usp=sharing](https://drive.google.com/file/d/1Pf3QGd8uuKfSE9ZCZg9_g9rXJ3loUe5j/view?usp=sharing)
 
-- ⚡ Fun fact **Developers stalk on Github**
+- ⚡ Fun fact about me **I'm a fitness freak and I can do human flag ;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
