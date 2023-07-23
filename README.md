@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything that helps me in levelling up my skillsets :)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abby1611](https://github.com/abby1611)
+- 👨‍💻 All of my projects are available at [https://github.com/abhay2603](https://github.com/abhay2603)
 
 - 📝 I sometimes write articles on [https://wordpress.com/posts/thedistressedblogger.wordpress.com](https://wordpress.com/posts/thedistressedblogger.wordpress.com)
 
@@ -36,8 +36,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abby1611&show_icons=true&locale=en&layout=compact" alt="abhay2603" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay2603&show_icons=true&locale=en&layout=compact" alt="abhay2603" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay2603&show_icons=true&locale=en" alt="abhay2603" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abby1611&" alt="abby1611" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay2603&" alt="abhay2603" /></p>
