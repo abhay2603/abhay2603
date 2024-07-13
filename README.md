@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/rathour_abhayy" target="blank"><img src="https://img.shields.io/twitter/follow/rathour_abhayy?logo=twitter&style=for-the-badge" alt="rathour_abhayy" /></a> </p>
 
-- 🔭 I’m currently working on **Projects based on Web and app development** and open to **Software Developer** profiles.
+- 🔭 I’m currently working as **a Software Engineer at LTI Mindtree** in **Automation and Fullstack development**  
 
-- 🌱 I’m currently learning **everything that helps me in levelling up my skillsets :)**
+- 🌱 I’m currently learning **Generative AI, System design, and Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhay2603](https://github.com/abhay2603)
 
@@ -15,11 +15,11 @@
 
 - 💬 Ask/talk to me about **Tech, space, universe, astronomy, psychology, love....[ the list goes on:) ]**
 
-- 📫 How to reach me **recruitabhay2023@gmail.com(work) / apsr0316@gmail.com (personal)**
+- 📫 How to reach me **rathourabhay0305@gmail.com / apsr0316@gmail.com (personal)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Pf3QGd8uuKfSE9ZCZg9_g9rXJ3loUe5j/view?usp=sharing](https://drive.google.com/file/d/1Pf3QGd8uuKfSE9ZCZg9_g9rXJ3loUe5j/view?usp=sharing)
 
-- ⚡ Fun fact about me **I'm a fitness freak and I can hold a plank for 8 minutes ;**
+- ⚡ Fun fact about me **I can do handstand pushups, can hold a plank for 8 min, 2 finger/1 hand pushups, muscle ups and some more;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
